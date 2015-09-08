@@ -1,0 +1,24 @@
+{
+  "name": "robot",
+  "version": "0.0.1",
+  "description": "robot servo controller",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/robot.git"
+  },
+  "keywords": [
+    "robot",
+    "servo",
+    "fpga"
+  ],
+  "author": "drom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drom/robot/issues"
+  },
+  "homepage": "https://github.com/drom/robot#readme"
+}
